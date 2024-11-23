@@ -31,4 +31,23 @@ if "Explorar Datos" in selected_page:
     st.write("""
     ## Explore Data
     Distributions""")
- 
+
+if "Feature Engineering" in selected_page:
+    st.write("""
+    ## Explore Data
+    Feature Engineering""")
+
+if "Modelado" in selected_page:
+    st.write("""
+    ## Explore Data
+    Modelado""")
+
+if "Neural Network" in selected_page:
+    st.write("""
+    ## Explore Data
+    Neural Network""")
+       
+if "Prediccion" in selected_page:
+    st.write("""
+    ## Explore Data
+    Prediccion""")
