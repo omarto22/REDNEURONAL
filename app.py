@@ -2,4 +2,4 @@ import streamlit as st
  
 #writing simple text
  
-st.title("Credit Card App OATG")
+st.title("Credit Card App OMAR")
